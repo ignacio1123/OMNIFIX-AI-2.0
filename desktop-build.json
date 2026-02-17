@@ -1,0 +1,18 @@
+
+{
+  "name": "OmniFixAI",
+  "version": "2.5.0",
+  "description": "Desktop Suite for PC Repair",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:exe": "electron-packager . OmniFixAI --platform=win32 --arch=x64 --out=dist --overwrite --icon=app.ico"
+  },
+  "instructions": [
+    "1. Instala Node.js en tu PC.",
+    "2. Abre una terminal en la carpeta del proyecto.",
+    "3. Ejecuta: npm install electron electron-packager",
+    "4. Para crear el ejecutable ejecuta: npm run build:exe",
+    "5. Encontrarás el .exe en la carpeta 'dist'."
+  ]
+}

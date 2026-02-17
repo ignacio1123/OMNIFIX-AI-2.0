@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of OmniFix AI - Suite Avanzada de Diagnóstico PC",
+  "description": "Un compañero técnico impulsado por IA para la reparación, diagnóstico y solución de problemas de PC. Incluye análisis de hardware inteligente, guías de reparación paso a paso y un panel de herramientas completo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
